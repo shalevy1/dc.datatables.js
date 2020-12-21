@@ -43,7 +43,7 @@
         "jquery": "^3.4.1",
         "jsdifflib": "~1.1",
         "load-grunt-tasks": "~3.5",
-        "marked": "^0.6.2",
+        "marked": "^0.7.0",
         "promise-polyfill": "^8.1.0",
         "time-grunt": "~1.4",
         "uglify-js": "~2.7",
